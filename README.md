@@ -1,7 +1,8 @@
-# SOC Home Lab: Windows Domain, Sysmon Logging, Splunk SIEM, and Adversary Simulation
+# Active Directory Home Lab with Endpoint Detection and SOC Telemetry
 
 ## Overview
-This project involved building a security operations (SOC) home lab designed to simulate an enterprise environment and generate real telemetry for detection, alerting, and incident investigation. The environment included a Windows domain, endpoint logging via Sysmon, log ingestion into Splunk, and offensive security simulations to produce realistic data for analysis.
+This project involved building an Active Directory–based security home lab designed to simulate a small enterprise environment and generate real telemetry for blue-team analysis. The environment included a Windows Server domain, a monitored Windows endpoint with Sysmon, centralized log ingestion through Splunk, and adversary simulations to produce security events for detection and investigation.
+By combining domain administration with attack simulation and SIEM analysis, this lab provided real-world experience in authentication flow, endpoint visibility, and security event monitoring.
 
 ## Lab Architecture
 
