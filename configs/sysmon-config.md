@@ -4,7 +4,7 @@ For this project, I used Olaf Hartong’s Sysmon Modular configuration as the
 base config for event logging and telemetry generation.
 
 Original source:
-- GitHub: https://github.com/olafhartong/sysmon-modular
+- GitHub: https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml
 
 I selected this config because it provides strong coverage for process creation,
 network connections, registry modifications, and script execution — which
